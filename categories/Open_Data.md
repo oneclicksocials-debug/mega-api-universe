@@ -1,0 +1,29 @@
+# Category: Open_data (25 APIs)
+
+| API Name | Description | Auth | Source | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **APIs.guru** | Wikipedia for Web APIs. Repository of API definitions in OpenAPI format. **Warning**: If you want to be notified about changes in advance pl... | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://APIs.guru) |
+| **Auckland Museum API** | This is technical documentation for the Auckland Museum API | `OpenAPI Spec / API Key` | APIs.guru | [Explore](http://www.aucklandmuseum.com) |
+| **BC Data Catalogue API** | This API provides live access to the BC Data Catalogue. Further documentation on the API is available from http://docs.ckan.org/en/latest/ C... | `OpenAPI Spec / API Key` | APIs.guru | [Explore](http://data.gov.bc.ca/) |
+| **BC Geographical Names Web Service - REST API** | This REST API provides searchable access to information about geographical names in the province of British Columbia, including name status ... | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://www2.gov.bc.ca/gov/content?id=A3C60F17CE934B1ABFA366F28C66E370) |
+| **Bills API** | Performs search on parliament.uk domain. Implements [OpenSearch specification](https://github.com/dewitt/opensearch). Throttled at 10 reques... | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://www.parliament.uk) |
+| **Canada Holidays API** | This API lists all 31 public holidays for all 13 provinces and territories in Canada, including federal holidays. | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://canada-holidays.ca/api) |
+| **City of Surrey Open511 API** | This API provides locations of City of Surrey traffic loops and the corresponding traffic loop counts in 15 minute intervals. While the coun... | `OpenAPI Spec / API Key` | APIs.guru | [Explore](http://data.surrey.ca) |
+| **Co-WIN Certificate API** | API to get Co-WIN vaccination certificate. | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://www.cowin.gov.in) |
+| **Corrently.io** | *Corrently - from italian corrente, which is energy* # Introduction The Corrently ecosystem gets maintained by [STROMDAO GmbH](https://www.s... | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://stromdao.de/kontakt) |
+| **D&D 5e API** | # Introduction Welcome to the dnd5eapi, the Dungeons & Dragons 5th Edition API! This documentation should help you familiarize yourself with... | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://github.com/5e-bits) |
+| **DriveBC's Open511 API** | This API is DriveBC's implementation of the Open511 specification. It provides information about known road events (traffic accidents, const... | `OpenAPI Spec / API Key` | APIs.guru | [Explore](http://www.drivebc.ca/) |
+| **Geocoder REST API** | This API represents address cleaning, correction, completion, geocoding, reverse geocoding, and proximity resources for intersection address... | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://dpdd.atlassian.net/servicedesk/customer/portal/1/group/7/) |
+| **Health Data Consent Manager** | Entity which provides health information aggregation services to customers of health care services. It enables customers to fetch their heal... | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://ndhm.gov.in/) |
+| **Importer-Exporter Details API** | The Importer-Exporter Code (IEC), issued by Directorate General of Foreign Trade (DGFT), is a key business identification number which is ma... | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://www.dgft.gov.in/) |
+| **Mtaa API Documentation** | Mtaa A simple REST API to access Tanzania's location information,With mtaa API you can easily query and integrate all the location in tanzan... | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://github.com/HackEAC/mtaaAPI) |
+| **OSF APIv2 Documentation** | OpenAPI specification for osf.io | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://osf.io/support) |
+| **Open Policy Agent (OPA) REST API** | OPA provides policy-based control for cloud native environments. The following *endpoints* (such as `PUT /v1/policies`) provide reference do... | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://github.com/open-policy-agent/opa) |
+| **Open Skills API** | A complete and standard data store for canonical and emerging skills, knowledge, abilities, tools, technolgies, and how they relate to jobs. | `OpenAPI Spec / API Key` | APIs.guru | [Explore](http://www.dataatwork.org) |
+| **Prime ReportStream** | A router of public health data from multiple senders and receivers | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://reportstream.cdc.gov) |
+| **Rat Genome Database REST API** | The RGD REST API provides programmatic access to information and annotation stored in the Rat Genome Database | `OpenAPI Spec / API Key` | APIs.guru | [Explore](http://rgd.mcw.edu) |
+| **They Said So Quotes API** | They Said So Quotes API offers a complete feature rich REST API access to its quotes platform. This is the documentation for the world famou... | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://theysaidso.com/api/quote) |
+| **U.S. EPA Enforcement and Compliance History Online (ECHO) - Clean Air Act** | Enforcement and Compliance History Online (ECHO) is a tool developed and maintained by EPA's Office of Enforcement and Compliance Assurance ... | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://echo.epa.gov/resources/general-info/contact-us) |
+| **Wellknown** | A registry of AI Plugins. | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://wellknown.ai) |
+| **eDRV API** | edrv.io API Documentation | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://edrv.io) |
+| **eNanoMapper database** | AMBIT REST web services [eNanoMapper profile] with free text & faceted search | `OpenAPI Spec / API Key` | APIs.guru | [Explore](https://phabricator.ideaconsult.net) |

@@ -1,0 +1,5 @@
+mega_apis.sqlite
+mega_apis_master.json
+freight_sample.csv
+*.pyc
+__pycache__/
